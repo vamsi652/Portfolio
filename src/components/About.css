@@ -1,0 +1,29 @@
+.about-section {
+    background: #f9f9f9;
+    padding: 4rem 2rem;
+    text-align: center;
+  }
+  
+  .about-content h2 {
+    font-size: 2.5rem;
+    margin-bottom: 1.5rem;
+    color: #333;
+  }
+  
+  .about-content p {
+    font-size: 1.2rem;
+    color: #555;
+    max-width: 800px;
+    margin: 0 auto;
+    line-height: 1.8;
+  }
+  
+  @media (max-width: 768px) {
+    .about-content h2 {
+      font-size: 2rem;
+    }
+  
+    .about-content p {
+      font-size: 1rem;
+    }
+  }
