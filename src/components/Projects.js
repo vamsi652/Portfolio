@@ -8,20 +8,23 @@ const Projects = () => {
         <h2>Projects</h2>
         <div className="projects-list">
           <div className="project-item">
-            <h3>Customer Churn Prediction</h3>
-            <p>Python, Random Forests, Pandas, Scikit-Learn</p>
-            <p>• Built a customer churn prediction model using Python and Random Forests to analyze and predict attrition.</p>
-            <p>• Conducted EDA and data preprocessing, including feature encoding and class balancing, for improved model
-            performance with accuracy about 78%.</p>
-            <p>• Utilized tools like pandas, Seaborn, and Scikit-Learn to generate actionable insights for retention strategies.</p>
-            <a href="https://colab.research.google.com/drive/1j_dW-PYpxgIPI2xo17AKGgxx0SUb7Txi?usp=sharing" target="_blank" rel="noopener noreferrer">View Project</a>
+            <h3>AI-Powered Health Analysis</h3>
+            <p>Python, Random Forest, LSTM, KMeans</p>
+            <p>• Built a backend system to analyze 60 days of health data using ML models (Random Forest, LSTM, KMeans).</p>
+            <p>• Achieved 85%+ accuracy in classifying daily health status and predicting health trends.</p>
+            <p>• Automated generation of daily health summaries with AI insights, exporting to CSV for user reports.</p>
+            <a href="https://www.kaggle.com/code/vamsimohanbangale/healthcare" target="_blank" rel="noopener noreferrer">View Project</a>
           </div>
           <div className="project-item">
-            <h3>Online Payment Fraud Detection</h3>
-            <p>Python, Random Forest, Matplotlib</p>
-            <p>• Implemented Random Forest classifier with 98% accuracy for fraud detection using Kaggle dataset.</p>
-            <p>• Implemented real-time visualization with Matplotlib.</p>
-            <a href="https://www.kaggle.com/code/vamsimohanbangale/onlinepaymentfrauddetection" target="_blank" rel="noopener noreferrer">View Project</a>
+            <h3>Secure Traffic AI</h3>
+            <p>Python, YOLOv5, OpenCV, PyTorch</p>
+            <p>• Built a real-time traffic violation detection system using YOLOv5 and custom CNNs to identify helmetless riders and
+extract number plates with 90%+ accuracy.</p>
+            <p>• Processed video streams using OpenCV and PyTorch, integrating object detection with image classification for
+actionable enforcement alerts.</p>
+            <p>• Automated violation logging with OCR and real-time alerting, enabling scalable, efficient monitoring for smart
+traffic management systems.</p>
+            <a href="https://github.com/vamsi652/Helmet-and-number-plate-detection" target="_blank" rel="noopener noreferrer">View Project</a>
           </div>
           <div className="project-item">
             <h3>Online Proctoring System</h3>
