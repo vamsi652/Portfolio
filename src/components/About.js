@@ -7,7 +7,7 @@ const About = () => {
       <div className="about-content">
         <h2>About Me</h2>
         <p>
-          Motivated student with a keen interest in Artificial Intelligence, Machine Learning, and Data Science.
+          Motivated with a keen interest in Artificial Intelligence, Machine Learning, and Data Science.
           Strong analytical skills and a passion for problem-solving, with a focus on using innovative approaches
           to address real-world challenges.
         </p>
