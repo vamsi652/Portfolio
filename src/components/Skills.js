@@ -9,15 +9,19 @@ const Skills = () => {
         <div className="skills-list">
           <div className="skill-category">
             <h3>Programming Languages</h3>
-            <p>C, C++, Java, Python, MySQL, JavaScript, HTML, CSS</p>
+            <p>Python, C++, Java, SQL</p>
           </div>
           <div className="skill-category">
-            <h3>Frameworks/Libraries</h3>
-            <p>PyTorch, MERN Stack, Bootstrap</p>
+            <h3>Machine Learning & Deep Learning</h3>
+            <p>scikit-learn, PyTorch, CNNs, RNNs, Transfer Learning, YOLOv5</p>
           </div>
           <div className="skill-category">
-            <h3>Interests</h3>
-            <p>AI, Machine Learning, Deep Learning, Computer Vision, NLP</p>
+            <h3>Computer Vision</h3>
+            <p>OpenCV, MediaPipe, Image Processing, OCR</p>
+          </div>
+          <div className="skill-category">
+            <h3>Tools</h3>
+            <p>Git, NumPy, Pandas, Matplotlib</p>
           </div>
         </div>
       </div>
