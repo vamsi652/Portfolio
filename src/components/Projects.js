@@ -33,7 +33,7 @@ traffic management systems.</p>
 accuracy.</p>
             <p>• Processed and analyzed over 280,000 transactions from the PaySim dataset for feature engineering and balancing.</p>
             <p>• Identified fraudulent patterns with precision of 0.99 using XGBoost, reducing false positives significantly</p>
-            <a href="https://www.kaggle.com/code/vamsimohanbangale/onlinepaymentfrauddetection" target="_blank" rel="noopener noreferrer">View Project</a>
+            <a href="https://github.com/vamsi652/OnlinePaymentFraudDetection" target="_blank" rel="noopener noreferrer">View Project</a>
           </div>
           <div className="project-item">
             <h3>AI-Powered Health Analysis</h3>
@@ -41,7 +41,7 @@ accuracy.</p>
             <p>• Built a backend system to analyze 60 days of health data using ML models (Random Forest, LSTM, KMeans).</p>
             <p>• Achieved 85%+ accuracy in classifying daily health status and predicting health trends.</p>
             <p>• Automated generation of daily health summaries with AI insights, exporting to CSV for user reports.</p>
-            <a href="https://www.kaggle.com/code/vamsimohanbangale/healthcare" target="_blank" rel="noopener noreferrer">View Project</a>
+            <a href="https://github.com/vamsi652/AIPoweredHealthAnalysis" target="_blank" rel="noopener noreferrer">View Project</a>
           </div>
         </div>
       </div>
