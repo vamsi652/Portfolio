@@ -13,7 +13,7 @@ const Skills = () => {
           </div>
           <div className="skill-category">
             <h3>Machine Learning & Deep Learning</h3>
-            <p>scikit-learn, PyTorch, CNNs, RNNs, Transfer Learning, YOLOv5</p>
+            <p>scikit-learn, PyTorch, CNNs, Transfer Learning, YOLOv5</p>
           </div>
           <div className="skill-category">
             <h3>Computer Vision</h3>
