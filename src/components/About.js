@@ -7,9 +7,10 @@ const About = () => {
       <div className="about-content">
         <h2>About Me</h2>
         <p>
-          Motivated with a keen interest in Artificial Intelligence, Machine Learning, and Data Science.
-          Strong analytical skills and a passion for problem-solving, with a focus on using innovative approaches
-          to address real-world challenges.
+          Computer Science graduate with a strong foundation in Artificial Intelligence, Machine Learning, and Data Science.
+          Having experience applying Python, deep learning frameworks, and computer vision techniques to solve real-world problems
+          through academic projects and hands-on work. Focused on building scalable, data-driven solutions and continuously
+          expanding technical expertise through practical learning and collaboration.
         </p>
       </div>
     </section>
