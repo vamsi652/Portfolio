@@ -16,6 +16,10 @@ const Skills = () => {
             <p>scikit-learn, PyTorch, CNNs, Transfer Learning, YOLOv5</p>
           </div>
           <div className="skill-category">
+            <h3>NLP & LLMs</h3>
+            <p>Transformers, LangChain, Prompt Engineering, Ollama</p>
+          </div>
+          <div className="skill-category">
             <h3>Computer Vision</h3>
             <p>OpenCV, MediaPipe, Image Processing, OCR</p>
           </div>
